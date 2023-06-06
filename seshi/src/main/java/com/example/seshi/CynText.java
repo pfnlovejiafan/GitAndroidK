@@ -11,5 +11,6 @@ package com.example.seshi;
 public class CynText {
     public int calcuation(int number){
         return number*2;
+
     }
 }
