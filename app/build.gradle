@@ -1,12 +1,11 @@
 plugins {
-    id 'com.android.application'
+    id 'com.android.library'
 }
 
 android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.gitandroidk"
         minSdk 24
         targetSdk 33
         versionCode 1
